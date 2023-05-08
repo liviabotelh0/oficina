@@ -1,0 +1,27 @@
+/*flex item*/
+#menu {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #F84907;
+    font-weight: bold;
+    font-size: 24pt;
+    background-color: #272727;
+    border-radius: 15px;
+    border-width: 300px;
+}
+
+#menu a {
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    color: #F84907;
+}
+
+#menu a:hover {
+    text-decoration: none;
+    color: rgb(210, 210, 210);
+}
+
+#menu li {
+    display: inline;
+    padding: 0 20px 0 20px;
+}
